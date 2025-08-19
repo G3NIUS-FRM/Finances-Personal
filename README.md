@@ -24,11 +24,3 @@ Este proyecto es una aplicación web de **finanzas personales** desarrollada con
 
 ---
 
-## Instalación
-
-### Backend (Django)
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/finanzas-personales.git
-   cd finanzas-personales/backend
