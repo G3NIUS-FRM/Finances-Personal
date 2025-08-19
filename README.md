@@ -20,7 +20,7 @@ Este proyecto es una aplicación web de **finanzas personales** desarrollada con
 - **Backend**: Django + Django REST Framework  
 - **Frontend**: React + Recharts + Bootstrap  
 - **Autenticación**: JWT (JSON Web Tokens)  
-- **Base de Datos**: PostgreSQL / SQLite (según configuración)  
+- **Base de Datos**: MySql 
 
 ---
 
